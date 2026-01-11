@@ -13,3 +13,6 @@
 ## Brain Progression
 - Win: https://asciinema.org/a/MphqCFLgD9A84iGo
 - Lose: https://asciinema.org/a/VUUs6QtEcDvRyycT
+## Brain Prime
+- Win: https://asciinema.org/a/Z3TJEtn7TLDiRVMR
+- Lose: https://asciinema.org/a/yf28GdBKRQV227N9
