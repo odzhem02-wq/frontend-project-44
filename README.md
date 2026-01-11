@@ -10,3 +10,6 @@
 ## Brain GCD
 - Win: https://asciinema.org/a/4O0AdyTAfFaoli6k
 - Lose: https://asciinema.org/a/txCzsGPspFcTcIKr
+## Brain Progression
+- Win: https://asciinema.org/a/MphqCFLgD9A84iGo
+- Lose: https://asciinema.org/a/VUUs6QtEcDvRyycT
