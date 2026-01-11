@@ -7,3 +7,6 @@
 ## Brain Calc
 - Win: https://asciinema.org/a/aQ6fTWBgUWwXp4Ey
 - Lose: https://asciinema.org/a/f5tTeVMBUS7nWCf8
+## Brain GCD
+- Win: https://asciinema.org/a/4O0AdyTAfFaoli6k
+- Lose: https://asciinema.org/a/txCzsGPspFcTcIKr
