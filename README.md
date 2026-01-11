@@ -4,3 +4,6 @@
 ## Brain Even
 - Win: https://asciinema.org/a/W2WwWbJih55mUC8V
 - Lose: https://asciinema.org/a/6xmPWo6eIecyghs5
+## Brain Calc
+- Win: https://asciinema.org/a/aQ6fTWBgUWwXp4Ey
+- Lose: https://asciinema.org/a/f5tTeVMBUS7nWCf8
