@@ -1,12 +1,7 @@
+import getRandomNumber from '../utils/random.js'
 import runGame from '../index.js'
 
 const description = 'Answer "yes" if given number is prime. Otherwise answer "no".'
-
-const getRandomNumber = (min, max) => {
-  const lower = Math.ceil(min)
-  const upper = Math.floor(max)
-  return Math.floor(Math.random() * (upper - lower + 1)) + lower
-}
 
 const isPrime = (number) => {
   if (number < 2) {

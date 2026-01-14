@@ -1,19 +1,12 @@
 import runGame from '../index.js'
-
-const description = 'What is the result of the expression?'
-
-const getRandomNumber = (min, max) => {
-  const lower = Math.ceil(min)
-  const upper = Math.floor(max)
-  return Math.floor(Math.random() * (upper - lower + 1)) + lower
-}
+import getRandomNumber from '../utils/random.js'
 
 const getRandomOperator = () => {
   const operators = ['+', '-', '*']
   const index = getRandomNumber(0, operators.length - 1)
   return operators[index]
 }
-
+const description = 'What is the result of the expression?'
 const calculate = (a, b, operator) => {
   switch (operator) {
     case '+':

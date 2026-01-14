@@ -1,12 +1,7 @@
+import getRandomNumber from '../utils/random.js'
 import runGame from '../index.js'
 
 const description = 'Find the greatest common divisor of given numbers.'
-
-const getRandomNumber = (min, max) => {
-  const lower = Math.ceil(min)
-  const upper = Math.floor(max)
-  return Math.floor(Math.random() * (upper - lower + 1)) + lower
-}
 
 // алгоритм Евклида
 const getGcd = (a, b) => {
